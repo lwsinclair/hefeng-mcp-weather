@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shanggqm-hefeng-mcp-weather-badge.png)](https://mseep.ai/app/shanggqm-hefeng-mcp-weather)
+
 # HeFeng Weather MCP Server
 
 A Model Context Protocol server that provides weather forecast data for locations in China through HeFeng Weather API.
